@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+openai==0.27.8
+langchain==0.0.200
+pydantic==1.10.7
+rich==13.4.2
